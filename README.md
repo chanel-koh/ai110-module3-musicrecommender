@@ -45,7 +45,7 @@ Replace this paragraph with your own summary of what your version does.
     - There's no penalty for hard mismatches, and since there's no floor or disqualifier, a user could still receive a song that's the opposite of what they want. 
 
 ## Sample Recommendation Output
-
+```
 ===========================================================================================
   Top Recommendations for: Indie Pop Fan
 ===========================================================================================
@@ -77,7 +77,7 @@ Replace this paragraph with your own summary of what your version does.
 +-----+--------------------+---------------+---------+------------------------------------+
 
 =============================================================================================
-
+```
 ---
 
 ## Getting Started
